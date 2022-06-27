@@ -12,5 +12,5 @@ Calculadora realizada en React.
 
 ## Verlo en directo en Github Pages
 
-* [https://adrianpg10.github.io/TareasReact/](https://adrianpg10.github.io/TareasReact/)
+* [https://adrianpg10.github.io/CalculadoraReact/](https://adrianpg10.github.io/CalculadoraReact//)
 
